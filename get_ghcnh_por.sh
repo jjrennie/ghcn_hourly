@@ -1,6 +1,4 @@
 #!/bin/bash
-main_directory="/store/sfcnet/datasets/ghcnh"
-
 if [ $# -eq 1 ]
 then
   INFILE=$1
